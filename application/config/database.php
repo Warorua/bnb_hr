@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'hrsystemci',
+	'hostname' => 'srv1140.hstgr.io',
+	'username' => 'u854855859_bnb_hr',
+	'password' => '0rU^9sohie',
+	'database' => 'u854855859_bnb_hr',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
